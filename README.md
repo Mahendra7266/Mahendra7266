@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahendra7266
 - 👀 I’m interested in plant protection for sustainable agriculture
 - 🌱 I’m currently learning bioinformatics
-- 💞️ I’m looking to collaborate on molecular plant pathology 
+
 
 
 <!---
